@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angulartodo';
+  name:string = 'Charlie';
+
+constructor(){
+  this.chaneName('CHar3lie')
+}
+
+chaneName(name:string):void{
+  this.name = name;
+}
+
 }
