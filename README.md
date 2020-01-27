@@ -1,4 +1,4 @@
-## Todo Website
+# Todo Website
 Simple todo SPA made with angular and TS
-# About
+## About
 First angular website.
